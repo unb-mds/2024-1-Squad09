@@ -1,7 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Stars](https://img.shields.io/github/stars/unb-mds/Squad09-UnBHUB)
-[![GitHub contributors](https://img.shields.io/github/contributors/unb-mds/2023-2-SuaGradeUnB)](https://img.shields.io/github/contributors/unb-mds/Squad09-UnBHUB)
-# [UnBHUB - Squad09_2024.1](https://github.com/unb-mds/Squad09-UnBHUB)
+[![GitHub contributors](https://img.shields.io/github/contributors/unb-mds/Squad09-UnBHUB)](https://img.shields.io/github/contributors/unb-mds/Squad09-UnBHUB)
+![Stars](https://img.shields.io/github/issues/unb-mds/Squad09-UnBHUB.svg)
+![]((https://img.shields.io/github/issues/unb-mds/Squad09-UnBHUB))
+![](https://img.shields.io/github/issues-closed/unb-mds/Squad09-UnBHUB.svg)
 
 Website com a tecnologia Typescript/Firebase que tem o intuito de aprimorar a experiência dos alunos da UnB. Possui algumas funcionalidades especiais como cardápio do RU, estruturação de organização semanal de acordo com a grade do estudante e caléndario mensal. Seu principal objetivo é disponibilizar uma plataforma otimizada, que cumpra a solucionar "dores dos clientes", que são os próprios alunos.
 
