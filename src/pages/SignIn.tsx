@@ -8,7 +8,7 @@ export default function SignInScreens() {
         style={{
           backgroundImage: "url('public/images/imagemlogin.jpg')",
         }}
-      ></div>
+      />
       <SignInCardComponent />
     </div>
   );
