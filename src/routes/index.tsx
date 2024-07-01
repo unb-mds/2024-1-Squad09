@@ -6,6 +6,7 @@ import SubjectsScreen from '../pages/Subjects';
 import SignInScreen from '../pages/SignIn';
 import SignUpScreen from '../pages/SignUp';
 import LandingPage from '../pages/Landing';
+import ProfilePage from '../pages/Profile';
 
 const router = createBrowserRouter([
   {
@@ -37,6 +38,10 @@ const router = createBrowserRouter([
   {
     path: '/Landing',
     element: <LandingPage />,
+  },
+  {
+    path: '/Profile',
+    element: <ProfilePage />,
   },
 ]);
 
